@@ -1,0 +1,8 @@
+i18n
+jquery-ui.js
+jquery-ui.min.js
+MANIFEST
+ui/*
+!ui/jquery.ui.widget.js
+!ui/jquery.ui.widget.min.js
+themes
