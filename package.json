@@ -24,6 +24,9 @@
       "url": "http://www.opensource.org/licenses/GPL-2.0"
     }
   ],
+  "dependencies": {
+    "jquery.ui.core": "1.8.23"
+  },
   "main": "ui/jquery.ui.widget.js",
   "jam": {
     "main": "ui/jquery.ui.widget.js"
